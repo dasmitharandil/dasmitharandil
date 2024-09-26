@@ -1,6 +1,3 @@
-# 💫 About Me:
-Im Currently Working on. a music startup and a tech startup.<br>I,m a music entrepreneur. <br>I can develop wordpress sites and i know Html css js and react. and im also good with no code app<br>developing using bubble.io<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dasmithar) 
